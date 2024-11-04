@@ -665,7 +665,7 @@ footer a:hover{
         max-width: 100% !important;
     }
     .p_md{
-        padding: 40px 0;
+        padding: 50px 0;
     }
     .column-1{
         height: 150px;
@@ -742,5 +742,12 @@ footer a:hover{
     }
     .padding-bottom-section{
         margin-bottom:00px
+    }
+    .faqs{
+        padding: 50px 0 !important;
+    }
+    .fs_20{
+        font-size: 18px;
+        line-height: 29px;
     }
 }
